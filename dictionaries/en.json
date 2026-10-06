@@ -9,7 +9,7 @@
       },
       "projects": {
         "title": "Our projects — Vitis Group",
-        "description": "Vino.ua is a chain of wine shops and online store; Wine.ua is an online library of wines and spirits."
+        "description": "Vino.ua is a chain of wine shops and online store."
       },
       "about": {
         "title": "About us — Vitis Group",
@@ -83,18 +83,6 @@
           {
             "label": "Chain of stores Vino.ua",
             "href": "https://vino.ua/set-magazinov-vino.ua/"
-          }
-        ]
-      },
-      {
-        "name": "WINE.UA",
-        "text": [
-          "Wine.ua is an Internet project founded by a group of wine enthusiasts and professionals. We don’t want to create one more online store with a standard set of drinks from the nearest supermarket, but we are seeking to create a useful resource for wine lovers. It has already become our philosophy of life."
-        ],
-        "links": [
-          {
-            "label": "Wine.ua",
-            "href": "https://www.wine.ua/"
           }
         ]
       },

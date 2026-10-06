@@ -3,8 +3,8 @@ import { getDict, pageMeta, type Locale } from "@/lib/i18n";
 
 export const generateMetadata = async ({ params }: { params: Promise<{ lang: string }> }) => pageMeta((await params).lang, "projects");
 
-const media = ["vino", "wine", "wineinfo"] as const;
-const alts = ["rose", "cristal", "glass"] as const;
+const media = ["vino", "wineinfo"] as const;
+const alts = ["rose", "glass"] as const;
 
 export default async function Projects({ params }: { params: Promise<{ lang: string }> }) {
   const d = await getDict((await params).lang as Locale);
