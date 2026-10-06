@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "title": "Vitis Group — wine importer in Ukraine",
+    "description": "Wine trading company \"Vitis Group\": more than 1,500 brands of wines and strong spirits from 120 producers.",
+    "pages": {
+      "product": {
+        "title": "Products — Vitis Group",
+        "description": "More than 1,500 wines and spirits from 120 producers in France, Italy, Spain, Portugal and the New World."
+      },
+      "projects": {
+        "title": "Our projects — Vitis Group",
+        "description": "Vino.ua is a chain of wine shops and online store; Wine.ua is an online library of wines and spirits."
+      },
+      "about": {
+        "title": "About us — Vitis Group",
+        "description": "A team of professionals who live wine: 17 years in business, offices in Kyiv, Odesa, Kharkiv, Dnipro and Lviv."
+      },
+      "careers": {
+        "title": "Careers — Vitis Group",
+        "description": "Open positions at Vitis Group: HORECA sales manager, wine boutique sales assistant, promoter."
+      },
+      "contacts": {
+        "title": "Contacts — Vitis Group",
+        "description": "Address, phones and e-mail of the Kyiv head office and branches in Odesa, Kharkiv, Dnipro and Lviv."
+      }
+    }
+  },
+  "nav": {
+    "product": "Product",
+    "projects": "Our projects",
+    "about": "About company",
+    "careers": "Careers",
+    "contacts": "Contact us",
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "label": "Main menu",
+    "lang": "Language",
+    "social": "Social networks"
+  },
+  "hero": {
+    "brand": "Vitis Group",
+    "sub": "Wine trading company",
+    "slogan": "The importing company as a part of the wine consumption culture in Ukraine"
+  },
+  "product": {
+    "title": "Product",
+    "text": [
+      "Wine is so interesting and multifaceted theme that we can’t call it just business; first of all, it is our hobby and our passion. We are falling in love with the product we present on the Ukrainian market. And over the past 10 years, the wine consumption culture in Ukraine has moved to a new, higher level of quality. And our company, as an importer, has the main mission to continue developing wine culture in Ukraine.",
+      "We are proud to work directly with such famous legendary wineries as Louis Roederer and Masi. We are also exclusive representatives of such wine brands as Elena Walch, Livio Felluga, Jean-Marc Brocard, Domaines Ott, Campagnola, Kendall-Jackson, Schlumberger, Ramos Pinto, and many others.",
+      "Moreover, although the wine is the key element of our portfolio, we are proud to represent such strong spirits as brandy Barbadillo, cognac Lheraud and whiskey from a lot of independent producers."
+    ],
+    "countries": [
+      "France",
+      "Italy",
+      "Spain",
+      "Portugal",
+      "Germany",
+      "Chile",
+      "Argentina",
+      "Australia",
+      "South Africa",
+      "New Zealand",
+      "USA",
+      "Subdistribution"
+    ],
+    "countriesTitle": "Countries and channels"
+  },
+  "projects": {
+    "title": "Our projects",
+    "intro": "We are lucky to be surrounded by people falling in love with our work, falling in love with wine, cognac, whiskey, armagnac – with such wonderful beverages with their own history, produced by the masters from all over the world. We are lucky to meet people who have fresh, original ideas, and together we create successful projects.",
+    "items": [
+      {
+        "name": "VINO.UA",
+        "text": [
+          "Vino.ua - is a retail chain of wine boutiques in Kyiv and Odesa, and one of the largest wine online stores in Ukraine.",
+          "We offer wines we drink by ourselves. Our cavists will help you to choose a drink for every day, for a special occasion or a gift. They know many interesting wine stories and they will tell you them with pleasure."
+        ],
+        "links": [
+          {
+            "label": "Online shop Vino.ua",
+            "href": "https://vino.ua"
+          },
+          {
+            "label": "Chain of stores Vino.ua",
+            "href": "https://vino.ua/set-magazinov-vino.ua/"
+          }
+        ]
+      },
+      {
+        "name": "WINE.UA",
+        "text": [
+          "Wine.ua is an Internet project founded by a group of wine enthusiasts and professionals. We don’t want to create one more online store with a standard set of drinks from the nearest supermarket, but we are seeking to create a useful resource for wine lovers. It has already become our philosophy of life."
+        ],
+        "links": [
+          {
+            "label": "Wine.ua",
+            "href": "https://www.wine.ua/"
+          }
+        ]
+      },
+      {
+        "name": "WINEINFO.COM.UA",
+        "text": [
+          "It is an online library about our wines and spirits. Everything is gathered in one place! You can find there what you want from the main characteristics to the interesting facts about the producers."
+        ],
+        "links": [
+          {
+            "label": "Wineinfo.com.ua",
+            "href": "http://www.wineinfo.com.ua/"
+          }
+        ]
+      }
+    ],
+    "outro": "We are for development! Therefore, we always are open to new projects and partners!"
+  },
+  "about": {
+    "title": "About company",
+    "company": "Wine trading company \"Vitis Group\"",
+    "who": "Who we are",
+    "lead": [
+      "We all are a little bit more than wine enthusiasts.",
+      "We are a team of professionals for whom wine is an inseparable part of life!"
+    ],
+    "text": [
+      "Our portfolio includes some of the best wineries in the world. Nowadays, it is more than 1,500 brands of wines and strong spirits from 120 producers of France, Italy, Spain, Germany, and the New World.",
+      "Nowadays, as for more than 17 years of our activity, we see our main task in developing a wine consumption culture in Ukraine. For this aim, we hold training, education tastings, and seminars on an ongoing basis, invite wine experts and famous winemakers as well.",
+      "Vitis stories. This is a project with a wine soul. There aren’t ordinary travels. There are journeys in the search for new emotions, knowledge, impressions. We regularly organize trips to the wineries of our suppliers and are pleased to invite the best Ukrainian sommeliers and our partners to join us on these trips."
+    ],
+    "teamTitle": "Our strength is in our team",
+    "team": "We are working with the best professionals who have come a long way in the wine industry and have gained enormous experience. And this is true not only about the central office in Kyiv. Our branch offices in Odesa, Dnipro, Kharkiv and Lviv work as coordinated elements of one large wine mechanism."
+  },
+  "careers": {
+    "title": "We are looking for team members",
+    "intro": "Every member of the Vitis Group team is our pride. We share common values and create new ones together. Working side by side with the core team for more than 7 years in a row is a great stroke of luck.",
+    "jobs": [
+      {
+        "title": "Sales manager, HoReCa department",
+        "sections": [
+          {
+            "h": "Responsibilities",
+            "items": [
+              "working with clients",
+              "expanding the client base in the HoReCa segment",
+              "meeting set targets",
+              "planning and reporting"
+            ]
+          },
+          {
+            "h": "Terms",
+            "text": "Official employment, bonus system, training, compensation for travel/fuel and mobile communication, salary from UAH 20,000."
+          },
+          {
+            "h": "Requirements",
+            "text": "Responsibility, ability to reach goals, high efficiency, willingness to learn, drive to earn. Experience in alcohol sales and knowledge of winemaking and alcoholic beverages are welcome."
+          }
+        ],
+        "apply": "To join the team, send your CV marked \"Sales manager\" to hr@vitis.com.ua or call +38 (044) 484-44-30."
+      },
+      {
+        "title": "Sales consultant (wine boutique chain)",
+        "lead": "We invite specialists with experience in alcohol products to our own retail chain. We also consider candidates without experience: we will teach you everything needed for success!",
+        "sections": [
+          {
+            "h": "Responsibilities",
+            "items": [
+              "working with clients, active sales",
+              "working with the assortment",
+              "working with the cash register"
+            ]
+          },
+          {
+            "h": "Requirements",
+            "items": [
+              "responsibility, attentiveness, sociability, good command of language",
+              "experience with premium alcohol (an advantage)",
+              "knowledge of cash discipline"
+            ]
+          },
+          {
+            "h": "Terms",
+            "text": "Official employment, training, a good team, good clientele. Pay: base UAH 7,000 + %, total UAH 12,000–20,000 depending on your sales (transparent and timely payments). Part-time work is possible."
+          }
+        ],
+        "apply": "To join the team, send your CV marked \"Wine boutique consultant\" to hr@vitis.com.ua or call +38 (050) 441-98-00."
+      },
+      {
+        "title": "Promoter in a supermarket",
+        "lead": "An interesting job! We invite people starting their careers, those who decided to master a new field, those who know about wine or want to learn, men and women, for a main job or a side job.",
+        "sections": [
+          {
+            "h": "Terms",
+            "items": [
+              "salary by agreement",
+              "professional and career growth",
+              "training (assortment, working with clients)",
+              "flexible schedule (day off - Sunday)",
+              "official employment"
+            ]
+          },
+          {
+            "h": "Requirements",
+            "text": "Sales experience is desirable. Pleasant appearance, good speech, good memory. Responsibility, punctuality, organization and desire to work. We will teach you the rest!"
+          }
+        ],
+        "apply": "To join the team, send your CV marked \"Promoter (city name)\" to hr@vitis.com.ua or call +38 (044) 484-44-30."
+      }
+    ],
+    "outro": "We are open to any proposals. If you want to become part of the Vitis Group team, send your CV to hr@vitis.com.ua.",
+    "cta": "Write to HR"
+  },
+  "contacts": {
+    "title": "Contact us",
+    "address": [
+      "52-A Sichovykh Striltsiv street, office 147",
+      "04053 Kyiv, Ukraine"
+    ],
+    "phoneLabel": "Phone",
+    "phone": "+38 (044) 484-44-30",
+    "email": "office@vitis.com.ua",
+    "departments": [
+      {
+        "label": "Import Department",
+        "email": "import@vitis.com.ua"
+      },
+      {
+        "label": "Marketing Department",
+        "email": "marketing@vitis.com.ua"
+      },
+      {
+        "label": "HR Department",
+        "email": "hr@vitis.com.ua"
+      },
+      {
+        "label": "HoReCa Department in Kyiv",
+        "email": "ontrade@vitis.com.ua"
+      },
+      {
+        "label": "Off-trade Department in Kyiv",
+        "email": "offtrade@vitis.com.ua"
+      }
+    ],
+    "branchesTitle": "Our branches",
+    "branches": [
+      {
+        "city": "Odesa",
+        "address": "26/2 Melnytska street, office 9",
+        "phone": "+38 048 734-01-46",
+        "email": "odesa@vitis.com.ua"
+      },
+      {
+        "city": "Kharkiv",
+        "address": "111-A Klochkivska street",
+        "phone": "+38 057 701-48-64",
+        "email": "kharkiv@vitis.com.ua"
+      },
+      {
+        "city": "Dnipro",
+        "address": "3 Shevchenko lane, office 41",
+        "phone": "+38 050 356-33-81",
+        "email": "dnipro@vitis.com.ua"
+      },
+      {
+        "city": "Lviv",
+        "address": "149/4 Zelena street, office 313",
+        "phone": "+38 032 242-09-84",
+        "email": "lviv@vitis.com.ua"
+      }
+    ],
+    "departmentsTitle": "Departments",
+    "route": "Get directions"
+  },
+  "alt": {
+    "team": "Vitis Group team",
+    "banner": "Wines and spirits from the Vitis Group portfolio",
+    "collage": "Photos from Vitis Group life",
+    "glasses": "Three glasses of red wine seen from above",
+    "cristal": "Bottle of Louis Roederer Cristal champagne",
+    "rose": "Bottles of Domaines Ott rosé on ice",
+    "glass": "A glass of Trapiche red wine and a bottle lying beside it"
+  }
+}

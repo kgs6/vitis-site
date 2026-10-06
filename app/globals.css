@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-burgundy: #8b0000;
+  --color-olive: #6f7d4b;
+  --color-tile: #eaeaea;
+  --color-tile2: #f4f4f4;
+  --color-sand: #ece9e4;
+  --color-ink: #282828;
+  --color-paper: #fafafa;
+  --font-sans: var(--font-jost), system-ui, sans-serif;
+}
+
+body { background: #fff; color: var(--color-ink); font-weight: 300; line-height: 1.6; }
+:focus-visible { outline: 2px solid var(--color-burgundy); outline-offset: 2px; }
+.link { color: var(--color-burgundy); text-decoration: underline; text-underline-offset: 3px; }
+/* inner pages: narrow column, small centred title */
+.col { margin: 0 auto; max-width: 60rem; padding: 3rem 1rem 4rem; }
+.col h1 { text-align: center; font-size: 1.5rem; font-weight: 400; margin-bottom: 2rem; }
+.col h2 { font-size: 1.125rem; font-weight: 400; }
+.prose p { text-align: justify; hyphens: auto; }
+.prose p + p { margin-top: 1rem; }
+summary { list-style: none; }
+summary::-webkit-details-marker { display: none; }
